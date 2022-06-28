@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ApotekVila/static/css/main.c49ef4fc.css",
+    "main.js": "/ApotekVila/static/js/main.9d666aa3.js",
+    "static/js/787.6663e2c5.chunk.js": "/ApotekVila/static/js/787.6663e2c5.chunk.js",
+    "static/media/img.png": "/ApotekVila/static/media/img.49d9519fb9797934e9af.png",
+    "static/media/img_1.png": "/ApotekVila/static/media/img_1.0e8cf4ee4ee1997adef7.png",
+    "static/media/profil.png": "/ApotekVila/static/media/profil.7c21c3afec610de5fcdd.png",
+    "index.html": "/ApotekVila/index.html",
+    "main.c49ef4fc.css.map": "/ApotekVila/static/css/main.c49ef4fc.css.map",
+    "main.9d666aa3.js.map": "/ApotekVila/static/js/main.9d666aa3.js.map",
+    "787.6663e2c5.chunk.js.map": "/ApotekVila/static/js/787.6663e2c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49ef4fc.css",
+    "static/js/main.9d666aa3.js"
+  ]
+}
